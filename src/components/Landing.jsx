@@ -9,7 +9,7 @@ function Landing()
             <header>
                 <div className="header__container">
                     <div className="header__description">
-                        <h1>Canadas most awarded Online LIbrary Platfrom</h1>
+                        <h1>Canadas most awarded Online Library Platfrom</h1>
                         <h2>Find your dream book with <span className="purple">Library</span></h2>
                         <a href="#features">
                             <button className="btn">Browse Books</button>
